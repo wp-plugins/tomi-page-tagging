@@ -1,6 +1,7 @@
-=== Tomi Menu ===
+=== Tomi Page Tagging ===
 
 Contributors: Tomi Novak
+Plugin Name: Tomi Page
 Tags: tags, pages, page tags
 Requires at least: 4.0.0
 Tested up to: 4.2.2
